@@ -83,4 +83,4 @@
 [twitter]: https://twitter.com/rayekov
 <!-- [youtube]: https://youtube.com/rayekov -->
 [instagram]: https://instagram.com/rayekov
-[linkedin]: https://linkedin.com/in/rayekov
+[linkedin]: https://www.linkedin.com/in/herv%C3%A9-franck-raye-yap-559a9916b/
