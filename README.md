@@ -5,7 +5,7 @@
 ## I'm a Tech Enthusiast, Developer, Network & Systems Engineer and Lifetime CS Student Human Being!
 
 - 🔭 I’m currently working on my Fullstack Dev Roadmap!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 ( ❤️DotNet mainly  )
 - 👯 I’m looking to collaborate with other Tech lovers & Dev
 - 🥅 2022 Goals: Grow in skills
 - ⚡ Fun fact: I love Food,Chess, Music & Video Games
