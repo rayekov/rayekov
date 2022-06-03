@@ -14,8 +14,8 @@
 ### Connect with me:
 
 
-<img align="left"  alt="rayekov | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /> [Twitter] <br/>
-<img align="left"  alt="rayekov | LinkedIn" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />[LinkedIn]
+#### <img align="left"  alt="rayekov | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /> [Twitter] 
+#### <img align="left"  alt="rayekov | LinkedIn" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />[LinkedIn]
 
 
 <br />
