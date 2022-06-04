@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rayekov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frayekov&screen_name=rayekov)
 
-## I'm a Tech Enthusiast, Developer, Network & Systems Engineer and Lifetime CS Student Human Being!
+## I'm a Tech Enthusiast, Developer, Networks & Systems Engineer and Lifetime CS Student Human Being!
 
 - 🔭 I’m currently working on my Fullstack Dev Roadmap!
 - 🌱 I’m currently learning everything ✨ ( ❤️DotNet mainly  )
 - 👯 I’m looking to collaborate with other Tech lovers & Dev
 - 🥅 2022 Goals: Grow in skills
-- ⚡ Fun fact: I love Food,Chess, Music & Video Games
+- ⚡ Fun fact: I love Food, Chess, Music & Video Games ...
 
 
 ### Connect with me:
