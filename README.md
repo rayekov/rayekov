@@ -58,22 +58,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left"  alt="rayekov's Github Stats" src="https://github-readme-stats.rayekov.vercel.app/api?username=rayekov&show_icons=true&hide_border=true" />
-
-</details>
-
 <!-- [website]: https://rayekov.com -->
 [Twitter]: https://twitter.com/rayekov
 <!-- [youtube]: https://youtube.com/rayekov -->
