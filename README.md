@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my Fullstack Dev Roadmap!
 - 🌱 I’m currently learning everything ✨ ( ❤️DotNet mainly  )
 - 👯 I’m looking to collaborate with other Tech lovers & Dev
-- 🥅 2023 Goals: Grow in skills ( Angular && ( DotNet || Symfony ) )
+- 🥅 2024 Goals: Grow in skills & Enjoy Coding
 - ⚡ Fun fact: I love Food, Chess, Music & Video Games ...
 
 
